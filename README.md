@@ -8,6 +8,10 @@ A production-ready relay solution developed to enhance connectivity for [Latry](
 
 [**Latry**](https://latry.app) is a modern mobile application for amateur radio operators that connects to SVXLink reflector servers worldwide. This relay was developed as part of Latry's infrastructure to ensure reliable connectivity for all users, regardless of their geographic location or network provider.
 
+## Demonstration Video
+
+[![Video demonstration](https://img.youtube.com/vi/mHUodK3abNo/0.jpg)](https://www.youtube.com/watch?v=mHUodK3abNo)
+
 ## Key Benefits
 
 ✅ **Eliminates Packet Loss** - Routes traffic through optimized network paths  
